@@ -1,1 +1,1 @@
-Here you can find the compolete Python Notebook to train and evaluate the model. To download dataset follow the link given in article: 
+Here you can find the compolete Python Notebook to train and evaluate the model. To download dataset follow the link given in article: https://medium.com/@rehanmbl/training-cnn-on-signal-data-for-human-activity-recognition-ca1eaddeac8f
