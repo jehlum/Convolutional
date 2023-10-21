@@ -1,2 +1,1 @@
-# Convolutional
-How to make a Convolution Network understand non image data. Complete code for medium article
+Here you can find the compolete Python Notebook to train and evaluate the model. To download dataset follow the link given in article: 
